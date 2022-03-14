@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pertemuan5_71180299_</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="hint_enterUserName">User Name Kamu</string>
+    <string name="password">Password Kamu</string>
+    <string name="txt_powered_by" translatable="false">Latihan Android</string>
+</resources>
